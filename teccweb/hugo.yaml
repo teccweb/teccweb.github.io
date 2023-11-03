@@ -1,0 +1,251 @@
+baseURL: http://somethingwentwell.github.io/
+languageCode: en-us
+title: "InSource: No-Code AI Management Platform for LLM Flows | OpenAI, LangChain, LangFlow"
+
+module:
+  # uncomment line below for local development of module
+  # workspace: hugo.work
+  imports:
+    path: github.com/StefMa/hugo-fresh
+
+
+googleAnalytics: # Put in your tracking code without quotes like this: UA-XXX for universal tracking or G-XXX analytics v4 tracking
+# Disables warnings
+disableKinds:
+- taxonomy
+- taxonomyTerm
+markup:
+  goldmark:
+    renderer:
+      unsafe: true # Allows you to write raw html in your md files
+
+params:
+  # Open graph allows easy social sharing. If you don't want it you can set it to false or just delete the variable
+  openGraph: true
+  # Used as meta data; describe your site to make Google Bots happy
+  keywords: "InSource, LLM flow, no-code automation, OpenAI, AI, LangChain, LangFlow"
+  description: "InSource: Your AI Platform with No-Code Flow Builder, Complete Control, and Uncompromised Security. Build LLM flows easily with our Simple UI visual tool, Sophisticated control room, and Customized modules."
+  # Preloader ensures images are loaded before displaying to the user. If you don't want it uncomment to set it to false
+  # preloader: false
+  navbarlogo:
+  # Logo (from static/images/logos/___)
+    image: logos/insource-logo.png
+    link: /
+    # Default width/height. Uncomment if you need to change
+    # width: 112
+    # height: 28
+  font:
+    name: "Open Sans"
+    sizes: [400,600]
+  hero:
+    # Main hero title
+    title: InSource
+    # Hero subtitle (optional)
+    subtitle: Your AI Platform. No-Code, Complete Control, Uncompromised Security.
+    # Button text
+    buttontext: Demo Request
+    # Where the main hero button links to
+    buttonlink: "/#section5"
+    # Hero image (from static/images/___)
+    # image: illustrations/worker.svg
+    image: illustrations/mockups/langflow.png
+    # Footer logos (from static/images/logos/clients/*.svg)
+    # urls are optional
+    # clientlogos:
+    # - logo: systek
+    #   url: https://google.com
+    # - logo: tribe
+    #   url: https://stefma.github.io/hugo-fresh/
+    # - logo: kromo
+    #   url: https://github.com/StefMa/hugo-fresh
+    # - logo: infinite
+    #   url: https://hugo-fresh.vercel.app/
+    # - logo: gutwork
+    #   url: https://bulma.io/
+  # Customizable navbar. For a dropdown, add a "sublinks" list.
+  navbar:
+  - title: Why InSource
+    url: /#section3
+  - title: Components
+    sublinks:
+    - title: No-Code Flow Builder
+      url: /features/no-code-flow
+    - title: Admin Portal
+      url: /features/admin
+    - title: Custom Modules
+      url: /features/custom-modules/
+  - title: Use Cases
+    sublinks:
+    - title: HR
+      url: /usecase/recruitment
+    - title: Construction
+      url: /usecase/construction
+    - title: Shopping Mall
+      url: /usecase/mall
+    - title: Education
+      url: /usecase/education
+  # - title: Blog
+  #   url: /blog
+  - title: Demo Request
+    url: /#section5
+  - title: Demo Login
+    url: http://demo.insource.asia
+    button: true
+  # - title: Log in
+  #   url: /
+  # - title: Sign up
+  #   url: /
+  #   button: true
+  # sidebar:
+  #   # Logo (from /images/logos/___.svg)
+  #   logo: fresh-square
+  #   sections:
+  #   - title: User
+  #     icon: user
+  #     links:
+  #     - text: Profile
+  #       url: /
+  #     - text: Account
+  #       url: /
+  #     - text: Settings
+  #       url: /
+  #   - title: Messages
+  #     icon: envelope
+  #     links:
+  #     - text: Inbox
+  #       url: /
+  #     - text: Compose
+  #       url: /
+  #   - title: Images
+  #     icon: image
+  #     links:
+  #     - text: Library
+  #       url: /
+  #     - text: Upload
+  #       url: /
+  #   - title: Settings
+  #     icon: cog
+  #     links:
+  #     - text: User settings
+  #       url: /
+  #     - text: App settings
+  #       url: /
+  section3:
+    title: Why InSource
+    subtitle: Great power comes with great responsibility
+    tiles:
+    - title: App Builder
+      icon: mouse-globe
+      text: Simple UI visual tool to build your LLM flow
+      url: /features/no-code-flow/
+      buttonText: Learn More
+    - title: Control Hub
+      icon: laptop-cloud
+      text: Sophisticated control room for execution and monitoring
+      url: /features/admin/
+      buttonText: Learn More
+    - title: Customized Modules
+      icon: plug-cloud
+      text: Customized modules for diverse business needs
+      url: /features/custom-modules/
+      buttonText: Learn More
+  # section2:
+  #   title: You're here because you want the best
+  #   subtitle: And we know it
+  #   features:
+  #   - title: Powerful and unified interface
+  #     text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.
+  #     # Icon (from /images/illustrations/icons/___.svg)
+  #     icon: laptop-globe
+  #   - title: Cross-device synchronisation
+  #     text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.
+  #     icon: doc-sync
+  #   - title: Nomad system
+  #     text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.
+  #     icon: mobile-feed
+  section1:
+    title: One platform
+    subtitle: To rule all AI flows
+    image: illustrations/mockups/dashboard.png
+    buttonText: Explore
+    buttonLink: "/features/admin/"
+  section4:
+    title: Our Clients love us!
+    # subtitle: Lorem ipsum sit dolor amet is a dummy text used by typography industry
+    clients:
+    - name: CEO
+      quote: A perfect no-code automation tool that easily edits our recruitment workflows, reducing 80% manual work!
+      job: A Recruitment Agency in Hong Kong
+      img: 1
+    - name: Marketing Manager
+      quote: InSource revolutionized our customer service, effortlessly updating promotions and enhancing our mall's overall experience.
+      job: A Shopping Mall in Hong Kong
+      img: 2
+    - name: IT Manager
+      quote: InSource delivered OpenAI with complete control in just 1 week, transforming our AI journey at our Hong Kong institution.
+      job: An Education Institutions in Hong Kong
+      img: 3
+  section5:
+    title: Contact Us
+    subtitle: We'd love to hear from you
+    buttonText: Send Message
+    formspree: https://formspree.io/f/xvojqooe
+    whatsapp: https://wa.me/85299999999?text=I%20would%20like%20to%20request%20for%20InSource%20Demo
+    # action: https://formspree.io/f/<form_id>
+    # method: POST
+  footer:
+    # Logo (from /images/logos/___)
+    logo: insource-logo.png
+    # Social Media Title
+    socialmediatitle: Follow Us
+    # Social media links (GitHub, Twitter, etc.). All are optional.
+    socialmedia:
+    - link: https://www.teccelerates.com/
+      icon: globe
+    - link: https://www.linkedin.com/company/teccelerates/
+      icon: linkedin
+    - link: https://www.youtube.com/@AI-InSource
+      icon: youtube
+    # - link: https://github.com/somethingwentwell/langflow/tree/insource
+      # Icons are from Font Awesome
+    #  icon: github
+    # - link: https://facebook.com/#
+    #   icon: facebook
+    # - link: https://twitter.com/StefMa91
+    #   icon: twitter
+    # - link: https://bitbucket.org/#
+    #   icon: bitbucket
+    bulmalogo: true
+    quicklinks:
+      column1:
+        title: "Product"
+        links:
+        - text: Why choose our product?
+          link: /#section1
+        # - text: Terms of Service
+        #   link: /tos
+      # column2:
+      #   title: "Docs"
+      #   links:
+      #   - text: Get started
+      #     link: /
+      #   - text: User guides
+      #     link: /
+      #   - text: Admin guide
+      #     link: /
+      #   - text: Developers
+      #     link: /
+      column2:
+        title: "Blog"
+        links:
+        - text: InSource Introduction
+          link: /features/admin
+        - text: Latest Use Case
+          link: /usecase/recruitment
+      column3:
+        title: "Terms of Service"
+        links:
+        - text: Terms of Service
+          link: /tos
+        - text: Statement of Support
+          link: /statement-of-support
