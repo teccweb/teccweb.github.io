@@ -8,69 +8,54 @@
     <language>en-us</language>
     <copyright>© 2023 Teccelerates. All Rights Reserved.</copyright>
     <lastBuildDate>Mon, 06 Jan 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://www.teccelerates.com/tags/example/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="https://www.teccelerates.com/tags/example/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Sixth Thing</title>
-      <link>https://www.teccelerates.com/blogs/sixth/</link>
+      <link>https://www.teccelerates.com/posts/sixth/</link>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.teccelerates.com/blogs/sixth/</guid>
+      <guid>https://www.teccelerates.com/posts/sixth/</guid>
       <description>Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
 Suspendisse laoreet metus ut metus imperdiet interdum aliquam justo tincidunt.</description>
     </item>
-    
     <item>
       <title>The Fifth Thing</title>
-      <link>https://www.teccelerates.com/blogs/fifth/</link>
+      <link>https://www.teccelerates.com/posts/fifth/</link>
       <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.teccelerates.com/blogs/fifth/</guid>
+      <guid>https://www.teccelerates.com/posts/fifth/</guid>
       <description>Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
 Suspendisse laoreet metus ut metus imperdiet interdum aliquam justo tincidunt.</description>
     </item>
-    
     <item>
       <title>The Fourth Thing</title>
-      <link>https://www.teccelerates.com/blogs/fourth/</link>
+      <link>https://www.teccelerates.com/posts/fourth/</link>
       <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.teccelerates.com/blogs/fourth/</guid>
+      <guid>https://www.teccelerates.com/posts/fourth/</guid>
       <description>Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
 Suspendisse laoreet metus ut metus imperdiet interdum aliquam justo tincidunt.</description>
     </item>
-    
     <item>
       <title>The Third Thing</title>
-      <link>https://www.teccelerates.com/blogs/third/</link>
+      <link>https://www.teccelerates.com/posts/third/</link>
       <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.teccelerates.com/blogs/third/</guid>
+      <guid>https://www.teccelerates.com/posts/third/</guid>
       <description>Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
 Suspendisse laoreet metus ut metus imperdiet interdum aliquam justo tincidunt.</description>
     </item>
-    
     <item>
       <title>The Second Thing</title>
-      <link>https://www.teccelerates.com/blogs/second/</link>
+      <link>https://www.teccelerates.com/posts/second/</link>
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.teccelerates.com/blogs/second/</guid>
+      <guid>https://www.teccelerates.com/posts/second/</guid>
       <description>Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
 Suspendisse laoreet metus ut metus imperdiet interdum aliquam justo tincidunt.</description>
     </item>
-    
     <item>
       <title>The First Thing</title>
-      <link>https://www.teccelerates.com/blogs/first/</link>
+      <link>https://www.teccelerates.com/posts/first/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.teccelerates.com/blogs/first/</guid>
+      <guid>https://www.teccelerates.com/posts/first/</guid>
       <description>Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
 Suspendisse laoreet metus ut metus imperdiet interdum aliquam justo tincidunt.</description>
     </item>
-    
   </channel>
 </rss>
