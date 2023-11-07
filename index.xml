@@ -10,10 +10,10 @@
     <lastBuildDate>Mon, 06 Jan 2020 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.teccelerates.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Key Solutions</title>
-      <link>https://www.teccelerates.com/key-solutions/</link>
+      <title>About Us</title>
+      <link>https://www.teccelerates.com/about-us/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.teccelerates.com/key-solutions/</guid>
+      <guid>https://www.teccelerates.com/about-us/</guid>
       <description>Phasellus quam turpis, feugiat sit amet ornare in, hendrerit in lectus. Praesent semper mod quis eget mi. Etiam eu ante risus. Aliquam erat volutpat. Aliquam luctus et mattis lectus sit amet pulvinar. Nam turpis nisi consequat etiam lorem ipsum dolor sit amet nullam.
 And Yet Another Subheading Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ac quam risus, at tempus justo. Sed dictum rutrum massa eu volutpat. Quisque vitae hendrerit sem.</description>
     </item>
@@ -30,6 +30,14 @@ Suspendisse laoreet metus ut metus imperdiet interdum aliquam justo tincidunt.</
       <link>https://www.teccelerates.com/posts/fifth/</link>
       <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://www.teccelerates.com/posts/fifth/</guid>
+      <description>Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
+Suspendisse laoreet metus ut metus imperdiet interdum aliquam justo tincidunt.</description>
+    </item>
+    <item>
+      <title>Cybersecurity</title>
+      <link>https://www.teccelerates.com/tech-soluctions/cybersecurity/</link>
+      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.teccelerates.com/tech-soluctions/cybersecurity/</guid>
       <description>Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
 Suspendisse laoreet metus ut metus imperdiet interdum aliquam justo tincidunt.</description>
     </item>
@@ -66,6 +74,14 @@ Suspendisse laoreet metus ut metus imperdiet interdum aliquam justo tincidunt.</
 Suspendisse laoreet metus ut metus imperdiet interdum aliquam justo tincidunt.</description>
     </item>
     <item>
+      <title>Smart Soluctions</title>
+      <link>https://www.teccelerates.com/tech-soluctions/smart-soluctions/</link>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.teccelerates.com/tech-soluctions/smart-soluctions/</guid>
+      <description>Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
+Suspendisse laoreet metus ut metus imperdiet interdum aliquam justo tincidunt.</description>
+    </item>
+    <item>
       <title>The Second Thing</title>
       <link>https://www.teccelerates.com/posts/second/</link>
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
@@ -74,10 +90,18 @@ Suspendisse laoreet metus ut metus imperdiet interdum aliquam justo tincidunt.</
 Suspendisse laoreet metus ut metus imperdiet interdum aliquam justo tincidunt.</description>
     </item>
     <item>
-      <title>AI</title>
+      <title>Artificial Intelligence</title>
       <link>https://www.teccelerates.com/business-soluctions/ai/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://www.teccelerates.com/business-soluctions/ai/</guid>
+      <description>Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
+Suspendisse laoreet metus ut metus imperdiet interdum aliquam justo tincidunt.</description>
+    </item>
+    <item>
+      <title>Cloud Services</title>
+      <link>https://www.teccelerates.com/tech-soluctions/cloud-services/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.teccelerates.com/tech-soluctions/cloud-services/</guid>
       <description>Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
 Suspendisse laoreet metus ut metus imperdiet interdum aliquam justo tincidunt.</description>
     </item>

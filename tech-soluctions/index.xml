@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Business Soluctions on Teccelarate – IT Consultation Service</title>
-    <link>https://www.teccelerates.com/business-soluctions/</link>
-    <description>Recent content in Business Soluctions on Teccelarate – IT Consultation Service</description>
+    <title>Technical Soluctions on Teccelarate – IT Consultation Service</title>
+    <link>https://www.teccelerates.com/tech-soluctions/</link>
+    <description>Recent content in Technical Soluctions on Teccelarate – IT Consultation Service</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2023 Teccelerates. All Rights Reserved.</copyright>
     <lastBuildDate>Sat, 04 Jan 2020 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.teccelerates.com/business-soluctions/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.teccelerates.com/tech-soluctions/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Industrial Applications</title>
-      <link>https://www.teccelerates.com/business-soluctions/industrial-applications/</link>
+      <title>Cybersecurity</title>
+      <link>https://www.teccelerates.com/tech-soluctions/cybersecurity/</link>
       <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.teccelerates.com/business-soluctions/industrial-applications/</guid>
+      <guid>https://www.teccelerates.com/tech-soluctions/cybersecurity/</guid>
       <description>Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
 Suspendisse laoreet metus ut metus imperdiet interdum aliquam justo tincidunt.</description>
     </item>
     <item>
       <title>Smart Soluctions</title>
-      <link>https://www.teccelerates.com/business-soluctions/smart-soluctions/</link>
+      <link>https://www.teccelerates.com/tech-soluctions/smart-soluctions/</link>
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.teccelerates.com/business-soluctions/smart-soluctions/</guid>
+      <guid>https://www.teccelerates.com/tech-soluctions/smart-soluctions/</guid>
       <description>Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
 Suspendisse laoreet metus ut metus imperdiet interdum aliquam justo tincidunt.</description>
     </item>
     <item>
-      <title>Artificial Intelligence</title>
-      <link>https://www.teccelerates.com/business-soluctions/ai/</link>
+      <title>Cloud Services</title>
+      <link>https://www.teccelerates.com/tech-soluctions/cloud-services/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.teccelerates.com/business-soluctions/ai/</guid>
+      <guid>https://www.teccelerates.com/tech-soluctions/cloud-services/</guid>
       <description>Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
 Suspendisse laoreet metus ut metus imperdiet interdum aliquam justo tincidunt.</description>
     </item>
