@@ -75,9 +75,9 @@ Suspendisse laoreet metus ut metus imperdiet interdum aliquam justo tincidunt.</
     </item>
     <item>
       <title>Smart Soluctions</title>
-      <link>https://www.teccelerates.com/tech-soluctions/smart-soluctions/</link>
+      <link>https://www.teccelerates.com/tech-soluctions/data-protection/</link>
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.teccelerates.com/tech-soluctions/smart-soluctions/</guid>
+      <guid>https://www.teccelerates.com/tech-soluctions/data-protection/</guid>
       <description>Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
 Suspendisse laoreet metus ut metus imperdiet interdum aliquam justo tincidunt.</description>
     </item>
@@ -121,6 +121,13 @@ Suspendisse laoreet metus ut metus imperdiet interdum aliquam justo tincidunt.</
       <guid>https://www.teccelerates.com/data-privacy-statement/</guid>
       <description>This Data Privacy Statement (&amp;ldquo;Statement&amp;rdquo;) is intended to inform you (&amp;ldquo;Customer&amp;rdquo; or &amp;ldquo;You&amp;rdquo;) about how your personal data is collected, used, and protected by Teccelerates (&amp;ldquo;We&amp;rdquo; or &amp;ldquo;Us&amp;rdquo;). This Statement applies to the collection and processing of personal data in relation to the products and services offered by Teccelerates.
 Collection of Personal Data We may collect personal data from you when you interact with us, such as when you make an inquiry, place an order, or use our services.</description>
+    </item>
+    <item>
+      <title>Terms and Conditions of Sale</title>
+      <link>https://www.teccelerates.com/tc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.teccelerates.com/tc/</guid>
+      <description>These terms and conditions of sale (&amp;ldquo;Agreement&amp;rdquo;) are between customer (&amp;ldquo;Customer&amp;rdquo; or &amp;ldquo;You&amp;rdquo;) and Teccelerates Limited (“Teccelerates”, &amp;ldquo;Company&amp;rdquo; or &amp;ldquo;We&amp;rdquo;), and will apply to your order and purchase of third-party hardware, software, and related third-party services (collectively, &amp;ldquo;Product&amp;rdquo;), and any services performed by Teccelerates as described in an order or statement of work (&amp;ldquo;Services&amp;rdquo;). This Agreement sets forth the rights and obligations of both Customer and Company, and shall govern all transactions between the parties unless otherwise stated in a separate written agreement executed by both parties.</description>
     </item>
   </channel>
 </rss>

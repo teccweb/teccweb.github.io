@@ -52,7 +52,7 @@
     <loc>https://www.teccelerates.com/business-soluctions/smart-soluctions/</loc>
     <lastmod>2020-01-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.teccelerates.com/tech-soluctions/smart-soluctions/</loc>
+    <loc>https://www.teccelerates.com/tech-soluctions/data-protection/</loc>
     <lastmod>2020-01-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.teccelerates.com/posts/second/</loc>
@@ -71,5 +71,7 @@
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.teccelerates.com/data-privacy-statement/</loc>
+  </url><url>
+    <loc>https://www.teccelerates.com/tc/</loc>
   </url>
 </urlset>
