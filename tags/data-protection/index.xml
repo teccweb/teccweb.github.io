@@ -11,9 +11,9 @@
     <atom:link href="https://www.teccelerates.com/tags/data-protection/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Data Protection</title>
-      <link>https://www.teccelerates.com/tech-soluctions/data-protection/</link>
+      <link>https://www.teccelerates.com/tech-solutions/data-protection/</link>
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.teccelerates.com/tech-soluctions/data-protection/</guid>
+      <guid>https://www.teccelerates.com/tech-solutions/data-protection/</guid>
       <description>•	Encryption: Encryption transforms data into unreadable format using cryptographic algorithms, ensuring that only authorized parties with the decryption key can access it. It safeguards the data&amp;rsquo;s confidentiality and integrity.
 •	Access controls: Implementing robust access controls helps organizations manage user privileges and restrict data access to authorized individuals. This ensures that only those with the proper permissions can access and modify sensitive information.
 •	Data backup and disaster recovery: Regular backup of data and creation of disaster recovery plans are essential for data protection.</description>
