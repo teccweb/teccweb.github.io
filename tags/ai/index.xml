@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Teccelarate – IT Consultation Service</title>
-    <link>https://www.teccelerates.com/posts/</link>
-    <description>Recent content in Posts on Teccelarate – IT Consultation Service</description>
+    <title>AI on Teccelarate – IT Consultation Service</title>
+    <link>https://www.teccelerates.com/tags/ai/</link>
+    <description>Recent content in AI on Teccelarate – IT Consultation Service</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2023 Teccelerates. All Rights Reserved.</copyright>
     <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.teccelerates.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.teccelerates.com/tags/ai/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AI-Powered Privileged Access Management</title>
       <link>https://www.teccelerates.com/posts/001/</link>

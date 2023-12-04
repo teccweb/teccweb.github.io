@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.teccelerates.com/</loc>
-    <lastmod>2020-01-06T00:00:00+00:00</lastmod>
+    <lastmod>2020-01-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.teccelerates.com/about-us/</loc>
   </url><url>
@@ -14,25 +14,7 @@
     <lastmod>2020-01-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.teccelerates.com/posts/</loc>
-    <lastmod>2020-01-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.teccelerates.com/tags/duis-neque/</loc>
-    <lastmod>2020-01-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.teccelerates.com/tags/example/</loc>
-    <lastmod>2020-01-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.teccelerates.com/tags/</loc>
-    <lastmod>2020-01-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.teccelerates.com/posts/sixth/</loc>
-    <lastmod>2020-01-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.teccelerates.com/tags/lorem-ipsum/</loc>
-    <lastmod>2020-01-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.teccelerates.com/posts/fifth/</loc>
-    <lastmod>2020-01-05T00:00:00+00:00</lastmod>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.teccelerates.com/tags/business-application/</loc>
     <lastmod>2020-01-04T00:00:00+00:00</lastmod>
@@ -46,11 +28,8 @@
     <loc>https://www.teccelerates.com/tech-solutions/cybersecurity/</loc>
     <lastmod>2020-01-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.teccelerates.com/posts/fourth/</loc>
+    <loc>https://www.teccelerates.com/tags/</loc>
     <lastmod>2020-01-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.teccelerates.com/posts/third/</loc>
-    <lastmod>2020-01-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.teccelerates.com/tags/data-protection/</loc>
     <lastmod>2020-01-02T00:00:00+00:00</lastmod>
@@ -58,8 +37,11 @@
     <loc>https://www.teccelerates.com/tech-solutions/data-protection/</loc>
     <lastmod>2020-01-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.teccelerates.com/posts/second/</loc>
-    <lastmod>2020-01-02T00:00:00+00:00</lastmod>
+    <loc>https://www.teccelerates.com/tags/ai/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.teccelerates.com/posts/001/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.teccelerates.com/business-solutions/ai/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
@@ -70,7 +52,13 @@
     <loc>https://www.teccelerates.com/tech-solutions/cloud-services/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.teccelerates.com/posts/first/</loc>
+    <loc>https://www.teccelerates.com/tags/example/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.teccelerates.com/tags/lorem-ipsum/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.teccelerates.com/tags/security/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.teccelerates.com/data-privacy-statement/</loc>

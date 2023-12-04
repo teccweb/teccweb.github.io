@@ -7,29 +7,8 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2023 Teccelerates. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 06 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jan 2020 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.teccelerates.com/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>duis neque</title>
-      <link>https://www.teccelerates.com/tags/duis-neque/</link>
-      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.teccelerates.com/tags/duis-neque/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>example</title>
-      <link>https://www.teccelerates.com/tags/example/</link>
-      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.teccelerates.com/tags/example/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>lorem ipsum</title>
-      <link>https://www.teccelerates.com/tags/lorem-ipsum/</link>
-      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.teccelerates.com/tags/lorem-ipsum/</guid>
-      <description></description>
-    </item>
     <item>
       <title>Business Application</title>
       <link>https://www.teccelerates.com/tags/business-application/</link>
@@ -52,10 +31,38 @@
       <description></description>
     </item>
     <item>
+      <title>AI</title>
+      <link>https://www.teccelerates.com/tags/ai/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.teccelerates.com/tags/ai/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Cloud Service</title>
       <link>https://www.teccelerates.com/tags/cloud-service/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://www.teccelerates.com/tags/cloud-service/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>example</title>
+      <link>https://www.teccelerates.com/tags/example/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.teccelerates.com/tags/example/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>lorem ipsum</title>
+      <link>https://www.teccelerates.com/tags/lorem-ipsum/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.teccelerates.com/tags/lorem-ipsum/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Security</title>
+      <link>https://www.teccelerates.com/tags/security/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.teccelerates.com/tags/security/</guid>
       <description></description>
     </item>
   </channel>

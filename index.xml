@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2023 Teccelerates. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 06 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jan 2020 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.teccelerates.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Us</title>
@@ -16,22 +16,6 @@
       <guid>https://www.teccelerates.com/about-us/</guid>
       <description>Teccelerates is providing advanced technology to accelerates the business growth. With a wide range of services and solutions, we work hand in hand with our customers to ensure they stay ahead in today&amp;rsquo;s fast-paced digital landscape.
 At Teccelerates, we understand that every industry has unique challenges. That&amp;rsquo;s why we offer tailored business solutions designed for various sectors. Our team of experts will collaborate with our customer to identify and implement cutting-edge solutions such as AI, Industrial Application, and Smart technologies, specifically tailored to address the industry needs.</description>
-    </item>
-    <item>
-      <title>The Sixth Thing</title>
-      <link>https://www.teccelerates.com/posts/sixth/</link>
-      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.teccelerates.com/posts/sixth/</guid>
-      <description>Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
-Suspendisse laoreet metus ut metus imperdiet interdum aliquam justo tincidunt.</description>
-    </item>
-    <item>
-      <title>The Fifth Thing</title>
-      <link>https://www.teccelerates.com/posts/fifth/</link>
-      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.teccelerates.com/posts/fifth/</guid>
-      <description>Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
-Suspendisse laoreet metus ut metus imperdiet interdum aliquam justo tincidunt.</description>
     </item>
     <item>
       <title>Business Application</title>
@@ -51,22 +35,6 @@ Benefits of Business Applications:
 •	Use multi-factor authentication (MFA): Implementing MFA adds an extra layer of security to your applications by requiring users to provide multiple forms of identification such as a password, fingerprint, or one-time code.</description>
     </item>
     <item>
-      <title>The Fourth Thing</title>
-      <link>https://www.teccelerates.com/posts/fourth/</link>
-      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.teccelerates.com/posts/fourth/</guid>
-      <description>Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
-Suspendisse laoreet metus ut metus imperdiet interdum aliquam justo tincidunt.</description>
-    </item>
-    <item>
-      <title>The Third Thing</title>
-      <link>https://www.teccelerates.com/posts/third/</link>
-      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.teccelerates.com/posts/third/</guid>
-      <description>Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
-Suspendisse laoreet metus ut metus imperdiet interdum aliquam justo tincidunt.</description>
-    </item>
-    <item>
       <title>Data Protection</title>
       <link>https://www.teccelerates.com/tech-solutions/data-protection/</link>
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
@@ -76,12 +44,12 @@ Suspendisse laoreet metus ut metus imperdiet interdum aliquam justo tincidunt.</
 •	Data backup and disaster recovery: Regular backup of data and creation of disaster recovery plans are essential for data protection.</description>
     </item>
     <item>
-      <title>The Second Thing</title>
-      <link>https://www.teccelerates.com/posts/second/</link>
-      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.teccelerates.com/posts/second/</guid>
-      <description>Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
-Suspendisse laoreet metus ut metus imperdiet interdum aliquam justo tincidunt.</description>
+      <title>AI-Powered Privileged Access Management</title>
+      <link>https://www.teccelerates.com/posts/001/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.teccelerates.com/posts/001/</guid>
+      <description>The first-ever Teccelerates physical event, held in collaboration with Delinea was successfully concluded on Aug 30! Together, we delved deep into the realm of AI-Powered Privileged Access Management, and here’s a wrap.
+The future of Security: Albert Chu, Sales Engineer, APAC, Delinea, inspired us with his expertise in Privileged Access Management. The insights shed light on how to build robust defences against cyber threats, ensuring our digital landscapes remain secure.</description>
     </item>
     <item>
       <title>Artificial Intelligence</title>
@@ -98,13 +66,6 @@ Suspendisse laoreet metus ut metus imperdiet interdum aliquam justo tincidunt.</
       <description>•	Migration Assessment: assess existing applications, infrastructure, and workloads to determine the feasibility and readiness for migration to the cloud.
 •	Strategy and Planning: help businesses develop a comprehensive cloud migration strategy, including selecting the appropriate cloud platform and determining the most suitable migration approach (lift and shift, re-platforming, or refactoring).
 •	Application and Data Migration: assist in migrating applications and data from on-premises environments or other cloud platforms to the target cloud infrastructure.</description>
-    </item>
-    <item>
-      <title>The First Thing</title>
-      <link>https://www.teccelerates.com/posts/first/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.teccelerates.com/posts/first/</guid>
-      <description></description>
     </item>
     <item>
       <title>Data Privacy Statement</title>
