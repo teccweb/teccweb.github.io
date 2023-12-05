@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2023 Teccelerates. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 04 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Aug 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.teccelerates.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Us</title>
@@ -16,6 +16,21 @@
       <guid>https://www.teccelerates.com/about-us/</guid>
       <description>Teccelerates is providing advanced technology to accelerates the business growth. With a wide range of services and solutions, we work hand in hand with our customers to ensure they stay ahead in today&amp;rsquo;s fast-paced digital landscape.
 At Teccelerates, we understand that every industry has unique challenges. That&amp;rsquo;s why we offer tailored business solutions designed for various sectors. Our team of experts will collaborate with our customer to identify and implement cutting-edge solutions such as AI, Industrial Application, and Smart technologies, specifically tailored to address the industry needs.</description>
+    </item>
+    <item>
+      <title>AI-Powered Privileged Access Management</title>
+      <link>https://www.teccelerates.com/posts/001/</link>
+      <pubDate>Wed, 30 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.teccelerates.com/posts/001/</guid>
+      <description>The first-ever Teccelerates physical event, held in collaboration with Delinea was successfully concluded on Aug 30! Together, we delved deep into the realm of AI-Powered Privileged Access Management, and here’s a wrap.
+The future of Security: Albert Chu, Sales Engineer, APAC, Delinea, inspired us with his expertise in Privileged Access Management. The insights shed light on how to build robust defences against cyber threats, ensuring our digital landscapes remain secure.</description>
+    </item>
+    <item>
+      <title>Our first Group annual dinner</title>
+      <link>https://www.teccelerates.com/posts/002/</link>
+      <pubDate>Fri, 21 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.teccelerates.com/posts/002/</guid>
+      <description>We celebrated a major milestone for Teccelerates at our first Group annual dinner on Apr 21! It was an incredible evening of networking, great food, and great wine. Special thanks to all partners - Zens, Delinea, Lapcom ……. for joining us, and make it a huge success. Here’s to many more years of Growth, innovation, and success.</description>
     </item>
     <item>
       <title>Business Application</title>
@@ -42,14 +57,6 @@ Benefits of Business Applications:
       <description>•	Encryption: Encryption transforms data into unreadable format using cryptographic algorithms, ensuring that only authorized parties with the decryption key can access it. It safeguards the data&amp;rsquo;s confidentiality and integrity.
 •	Access controls: Implementing robust access controls helps organizations manage user privileges and restrict data access to authorized individuals. This ensures that only those with the proper permissions can access and modify sensitive information.
 •	Data backup and disaster recovery: Regular backup of data and creation of disaster recovery plans are essential for data protection.</description>
-    </item>
-    <item>
-      <title>AI-Powered Privileged Access Management</title>
-      <link>https://www.teccelerates.com/posts/001/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.teccelerates.com/posts/001/</guid>
-      <description>The first-ever Teccelerates physical event, held in collaboration with Delinea was successfully concluded on Aug 30! Together, we delved deep into the realm of AI-Powered Privileged Access Management, and here’s a wrap.
-The future of Security: Albert Chu, Sales Engineer, APAC, Delinea, inspired us with his expertise in Privileged Access Management. The insights shed light on how to build robust defences against cyber threats, ensuring our digital landscapes remain secure.</description>
     </item>
     <item>
       <title>Artificial Intelligence</title>
